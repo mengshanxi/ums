@@ -1,7 +1,7 @@
 package main
 
 import (
-	_ "cms/routers"
+	_ "ums/routers"
 	"github.com/astaxie/beego"
 )
 
